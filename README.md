@@ -5,9 +5,9 @@
 
 ---
 
-## 👩 About Me
+## 👨 About Me
 
-- 👧 Full Name: *Sivagorn Puemjit*
+- 👦 Full Name: *Sivagorn Puemjit*
 - 🏷️ Nickname: *Fook*
 - 🎂 Date of Birth: *6 November 2003*
 - 🎈 Age: *21 years old*
@@ -34,9 +34,9 @@ MySQL`
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natnicha326&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sivagorn&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=natnicha326&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sivagorn&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
