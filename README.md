@@ -44,5 +44,4 @@ MySQL`
 ## 📫 How to Reach Me
 
 - 📧 Email: *fook.1not@gmail.com*
-- 🌐 Portfolio: [Coming Soon]
 - 🔗 GitHub: [github.com/sivagorn](https://github.com/sivagorn)
